@@ -1,0 +1,5 @@
+galliumos-default-settings (2.0.0) xenon; urgency=medium
+
+  * Import skel files from xubuntu-default-settings pkg
+
+ -- reynhout <reynhout@galliumos.org>  Fri, 22 Apr 2016 19:04:20 +0000
