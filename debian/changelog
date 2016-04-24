@@ -1,4 +1,4 @@
-galliumos-default-settings (2.0.0) xenon; urgency=medium
+galliumos-default-settings (2.0) xenon; urgency=medium
 
   * Import skel files from xubuntu-default-settings pkg
 

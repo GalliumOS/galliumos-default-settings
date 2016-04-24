@@ -10,5 +10,6 @@ Package: galliumos-default-settings
 Architecture: all
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends}, x11-common (>= 1:7.6+7ubuntu2)
+Replaces: xubuntu-default-settings
 Description: default settings for the GalliumOS desktop
  This package contains the default settings used by GalliumOS.
