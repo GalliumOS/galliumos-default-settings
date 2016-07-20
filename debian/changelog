@@ -1,3 +1,9 @@
+galliumos-default-settings (2.2) xenon; urgency=medium
+
+  * Made Ctrl Alt T shorcut for xfce4-terminal
+
+ -- David Muckle <dvdmuckle@galliumos.org>  Wed, 20 Jul 2016 17:27:47 -0400
+
 galliumos-default-settings (2.1) xenon; urgency=medium
 
   * Add galliumos-update.desktop to whisker menu favorites

@@ -31,6 +31,7 @@
       <property name="XF86Display" type="string" value="xfce4-display-settings --minimal"/>
       <property name="&lt;Primary&gt;F5" type="string" value="xfce4-screenshooter -f"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;F5" type="string" value="xfce4-screenshooter -w"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="xfce4-terminal"/>
       <property name="&lt;Primary&gt;XF86Display" type="string" value="xfce4-screenshooter -f"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;XF86Display" type="string" value="xfce4-screenshooter -w"/>
       <property name="&lt;Primary&gt;Escape" type="string" value="xfdesktop --menu"/>
