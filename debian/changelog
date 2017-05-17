@@ -1,3 +1,9 @@
+galliumos-default-settings (2.3) xenon; urgency=medium
+
+  * Add ~/.local/bin and ~/bin to default PATH
+
+ -- David Muckle <dvdmuckle@galliumos.org>  Wed, 17 May 2017 18:56:40 -0400
+
 galliumos-default-settings (2.2) xenon; urgency=medium
 
   * Made Ctrl Alt T shorcut for xfce4-terminal
