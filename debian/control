@@ -1,7 +1,7 @@
 Source: galliumos-default-settings
 Section: x11
 Priority: optional
-Maintainer: GalliumOS Developers <contact@galliumos.org>
+Maintainer: GalliumOS <galliumos@galliumos.org>
 Build-Depends: debhelper (>= 8.1.3~)
 Standards-Version: 3.9.6
 Homepage: https://galliumos.org/
