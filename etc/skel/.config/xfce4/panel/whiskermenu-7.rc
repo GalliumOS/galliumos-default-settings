@@ -1,5 +1,5 @@
-favorites=galliumos-update.desktop,exo-web-browser.desktop,exo-file-manager.desktop,hexchat.desktop,pidgin.desktop,deadbeef.desktop,exo-terminal-emulator.desktop
-recent=exo-terminal-emulator.desktop,xfce4-mixer.desktop,exo-web-browser.desktop
+favorites=galliumos-update.desktop,galliumos-irc.desktop,exo-web-browser.desktop,exo-file-manager.desktop,appgrid.desktop,audacious.desktop,mpv.desktop,exo-terminal-emulator.desktop
+recent=exo-terminal-emulator.desktop
 button-title=Applications Menu
 button-icon=xubuntu-logo-menu
 button-single-row=false
