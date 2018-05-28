@@ -38,6 +38,7 @@
       <property name="&lt;Super&gt;m" type="string" value="xfce4-popup-whiskermenu"/>
       <property name="&lt;Alt&gt;m" type="string" value="xfce4-popup-whiskermenu"/>
       <property name="override" type="bool" value="true"/>
+      <property name="Super_L" type="string" value="xfce4-popup-whiskermenu"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
