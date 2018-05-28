@@ -54,3 +54,9 @@ pattern=^(file|http|https):\\/\\/(.*)$
 command=exo-open \\0
 regex=true
 
+[action4]
+name=Catfish
+pattern=~
+command=catfish --start %s
+regex=false
+
