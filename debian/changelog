@@ -1,3 +1,11 @@
+galliumos-default-settings (2.9903) bismuth; urgency=medium
+
+  * Prepare for GalliumOS 3.0
+  * Update default desktop filename
+  * Update launcher menu favorites
+
+ -- reynhout <reynhout@galliumos.org>  Sun, 06 May 2018 07:04:41 +0000
+
 galliumos-default-settings (2.2) xenon; urgency=medium
 
   * Made Ctrl Alt T shorcut for xfce4-terminal
