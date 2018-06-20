@@ -20,5 +20,6 @@
     <property name="brightness-on-battery" type="uint" value="60"/>
     <property name="brightness-level-on-ac" type="uint" value="50"/>
     <property name="brightness-on-ac" type="uint" value="120"/>
+    <property name="show-panel-label" type="int" value="0"/>
   </property>
 </channel>
