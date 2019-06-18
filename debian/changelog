@@ -1,4 +1,4 @@
-galliumos-default-settings (2.9907) bismuth; urgency=medium
+galliumos-default-settings (2.9908) bismuth; urgency=medium
 
   * Prepare for GalliumOS 3.0
   * Update default desktop filename
@@ -7,6 +7,7 @@ galliumos-default-settings (2.9907) bismuth; urgency=medium
   * Adjust panel height to 32px
   * Hide power manager panel label
   * Disable xfwm4 compositing
+  * Update notification config
 
  -- reynhout <reynhout@galliumos.org>  Wed, 20 Jun 2018 01:30:01 +0000
 
