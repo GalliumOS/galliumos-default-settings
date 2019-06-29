@@ -1,4 +1,4 @@
-galliumos-default-settings (2.9908) bismuth; urgency=medium
+galliumos-default-settings (3.0) bismuth; urgency=medium
 
   * Prepare for GalliumOS 3.0
   * Update default desktop filename
